@@ -73,3 +73,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/UnityTechnologies/2DBeginnerAdventureGame/Scenes/Final/Ruby_Example_Scene.unity
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/SceneTemplateSettings.json
